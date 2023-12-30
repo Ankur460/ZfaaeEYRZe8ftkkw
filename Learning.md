@@ -8,3 +8,5 @@ Handling User Input and Validations: Implementing input fields for user data (we
 Conditional Rendering: Using conditional statements to display content conditionally (such as displaying BMI results only after calculation) improves user experience and prevents unnecessary content display.
 
 Anchor Tags and File Downloads: Understanding how anchor tags (<a>) work in HTML and using the download attribute to initiate file downloads (in this case, the candidate's resume) directly from the browser.
+
+Deploying React App On GitHub: Understanding how we can deploy a react app on github pages.
