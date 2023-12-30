@@ -14,6 +14,8 @@ const BMI_Calculator = () => {
             setBmiResult(bmi.toFixed(1)) //Round BMI to 1 decimal place
         }else{
             setBmiResult(null);
+            alert("Invalid Weight Or Height");
+            return;
         }
     }
   return (
