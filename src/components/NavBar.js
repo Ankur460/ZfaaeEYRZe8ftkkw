@@ -7,13 +7,13 @@ function NavBar() {
         <nav>
             <ul>
                 <li>
-                    <a href="#candidate_details">Candidate_Details</a>
+                    <a href="candidate_details">Candidate_Details</a>
                 </li>
                 <li>
                     <a href={resumeurl}>Candidate_Resume</a>
                 </li>
                 <li>
-                    <a href="#BMI_Calculator">BMI_Calculator</a>
+                    <a href="BMI_Calculator">BMI_Calculator</a>
                 </li>
             </ul>
         </nav>
