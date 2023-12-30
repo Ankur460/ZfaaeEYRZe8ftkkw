@@ -8,11 +8,11 @@ import {BrowserRouter ,Route,Routes} from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/ZfaaeEYRZe8ftkkw">
        <NavBar/>
        <Routes>
-        <Route path='/ZfaaeEYRZe8ftkkw/candidate_details' element={<Candidate_Details/>}/>
-        <Route path='/ZfaaeEYRZe8ftkkw/BMI_Calculator' element={<BMI_Calculator/>}/>
+        <Route path='/candidate_details' element={<Candidate_Details/>}/>
+        <Route path='/BMI_Calculator' element={<BMI_Calculator/>}/>
        </Routes>
       </BrowserRouter>  
     </div>
