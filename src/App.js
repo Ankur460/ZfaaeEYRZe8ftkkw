@@ -11,8 +11,8 @@ function App() {
       <BrowserRouter>
        <NavBar/>
        <Routes>
-        <Route path='/candidate_details' element={<Candidate_Details/>}/>
-        <Route path='BMI_Calculator' element={<BMI_Calculator/>}/>
+        <Route path='ZfaaeEYRZe8ftkkw/candidate_details' element={<Candidate_Details/>}/>
+        <Route path='ZfaaeEYRZe8ftkkw/BMI_Calculator' element={<BMI_Calculator/>}/>
        </Routes>
       </BrowserRouter>  
     </div>
