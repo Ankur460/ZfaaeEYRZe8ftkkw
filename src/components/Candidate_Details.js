@@ -2,7 +2,7 @@ import React from 'react'
 
 const Candidate_Details = () => {
     const candidate = {
-        firstName: 'Ankur rai',
+        firstName: 'Ankur',
         passoutYear: '15 June 2024',
         technologies: ['React', 'JavaScript', 'Node.js','Express','MySql','MongoDB'],
       };
